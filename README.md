@@ -4,8 +4,8 @@
 —————————————————————————————
 
 文件内容：
-PerTransformation.py：表单方格提取与勾选框检测算法实现
-GetChecked.py：算法调用应用
+Similarity.py：相似度算法实现
+erect_proposal.py：算法调用应用
 —————————————————————————————
 
 ![image](https://github.com/user-attachments/assets/1cf52550-f832-49f3-ab3e-949af557efd5)
